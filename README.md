@@ -5,7 +5,7 @@ Os insights gerados visam apoiar decisões estratégicas, auxiliando a empresa n
 * Observação: Os dados utilizados neste projeto são fictícios e foram criados para fins de estudo e prática.
 
 
-METODOLOGIA: 
+### METODOLOGIA: 
 
 Passo 1: Exploração de dados - vizualizando a base de dados e suas informações
 
@@ -18,7 +18,7 @@ Passo 4: Análise gráfica - usando histograma que relaciona uma coluna da tabel
 Passo 5: Filtro - selecionando por condições, para redução dos números de cancelamento 
 
 
-RESULTADOS:
+### RESULTADOS:
 
 Durante a análise, foram identificados grupos com maior propensão ao cancelamento, como pode ser observado a baixo:
 
@@ -32,8 +32,7 @@ Apresentam o maior índice de cancelamento, configurando um alerta crítico.
  - Clientes que realizaram muitas ligações ao call center:Mais de 3 ligações já representa um alerta. Acima de 5 ligações, o risco de cancelamento é extremamente elevado, indicando possíveis falhas no atendimento ou problemas com o serviço.
 
  
-
- EVOLUÇÃO DA TAXA DE CANCELAMENTO
+### EVOLUÇÃO DA TAXA DE CANCELAMENTO
 
 A análise e o tratamento dos dados permitiram uma redução progressiva da taxa de cancelamento:
 
@@ -43,7 +42,7 @@ A análise e o tratamento dos dados permitiram uma redução progressiva da taxa
 
 * Após análise gráfica: 12,33%
 
-FERRAMENTAS UTILIZADAS:
+### FERRAMENTAS UTILIZADAS:
 
 * Python
 * Pandas
@@ -52,6 +51,6 @@ FERRAMENTAS UTILIZADAS:
 * Jupyter Notebook
 * VS Code
 
-CONCLUSÃO
+### CONCLUSÃO
 
 Este projeto demonstra como a Análise Exploratória de Dados pode ser aplicada para detectar padrões de comportamento, identificar riscos e apoiar decisões baseadas em dados.
