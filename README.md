@@ -1,21 +1,23 @@
+# Analisando fatores que intensificaram os cancelamentos dos serviços de uma empresa
+
 Este projeto tem como objetivo analisar e compreender os principais fatores que levam ao cancelamento de serviços em uma empresa, utilizando técnicas de Análise Exploratória de Dados.
 
 Os insights gerados visam apoiar decisões estratégicas, auxiliando a empresa na redução da taxa de cancelamento e melhoria da retenção de clientes.
 
-* Observação: Os dados utilizados neste projeto são fictícios e foram criados para fins de estudo e prática.
+>Observação: Os dados utilizados neste projeto são fictícios e foram criados para fins de estudo e prática.
 
 
 ### METODOLOGIA: 
 
-Passo 1: Exploração de dados - vizualizando a base de dados e suas informações
+* Passo 1: Exploração de dados - vizualizando a base de dados e suas informações
 
-Passo 2: Tratamento e limpeza - retirando informações inúteis para essa análise
+* Passo 2: Tratamento e limpeza - retirando informações inúteis para essa análise
 
-Passo 3: Análise numérica - agrupando os clientes por tempo de assinatura e média
+* Passo 3: Análise numérica - agrupando os clientes por tempo de assinatura e média
 
-Passo 4: Análise gráfica - usando histograma que relaciona uma coluna da tabela com a coluna "cancelou"
+* Passo 4: Análise gráfica - usando histograma que relaciona uma coluna da tabela com a coluna "cancelou"
 
-Passo 5: Filtro - selecionando por condições, para redução dos números de cancelamento 
+* Passo 5: Filtro - selecionando por condições, para redução dos números de cancelamento 
 
 
 ### RESULTADOS:
