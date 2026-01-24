@@ -1,5 +1,7 @@
 # Analisando fatores que intensificaram os cancelamentos dos serviços de uma empresa
 
+![Status do Projeto](https://img.shields.io/badge/status-concluído-green)
+
 Este projeto tem como objetivo analisar e compreender os principais fatores que levam ao cancelamento de serviços em uma empresa, utilizando técnicas de Análise Exploratória de Dados.
 
 Os insights gerados visam apoiar decisões estratégicas, auxiliando a empresa na redução da taxa de cancelamento e melhoria da retenção de clientes.
